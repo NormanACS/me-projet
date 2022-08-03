@@ -11,7 +11,8 @@
  }
      
      .sm-flex  {
-         display: flex;
+        display: flex;
+        flex: auto;
        }
  
        .sm-flex-align {
@@ -54,7 +55,8 @@
     }
  
      .md-flex {
-         display: flex;
+      display: flex;
+      flex: auto;
        }
  
      .md-flex-align {
@@ -93,7 +95,8 @@
     }
  
      .lg-flex {
-         display: flex;
+      display: flex;
+      flex: auto;
        }
  
      .lg-flex-align {
