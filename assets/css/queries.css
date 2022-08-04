@@ -14,7 +14,11 @@
         display: flex;
         flex: auto;
        }
- 
+      
+       .sm-flex-wrap {
+        flex-wrap: wrap
+      }
+      
        .sm-flex-align {
          align-content: center;
        }
@@ -58,6 +62,10 @@
       display: flex;
       flex: auto;
        }
+
+       .md-flex-wrap {
+        flex-wrap: wrap
+      }
  
      .md-flex-align {
          align-content: center;
@@ -98,6 +106,10 @@
       display: flex;
       flex: auto;
        }
+
+    .lg-flex-wrap {
+      flex-wrap: wrap
+    }
  
      .lg-flex-align {
          align-content: center;
