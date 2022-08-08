@@ -12,7 +12,7 @@
 
 6.Une fois le projet fini le renvoyer la version final sur GitHub et fusionner les branches.
 
-# Fin du projet 5/08/2022
+# Fin du projet 12/08/2022
 
 # Ressource utilisé
 
