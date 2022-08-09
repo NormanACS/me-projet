@@ -58,6 +58,16 @@
     color: lightskyblue;
     text-decoration: none;
   }
+
+  .text-blue-ul {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .text-grey-ul {
+    color: darkgrey;
+    text-decoration: none;
+  }
   
   .font-blod-400 {
     font-weight: 400;
