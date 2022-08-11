@@ -1,0 +1,136 @@
+/*--body--*/
+.body {
+    margin: 0px;
+    background-color: #7b3f00;
+  }
+  
+  /*--text color--*/
+  
+  .text-color-bleu {
+    color: blue;
+  }
+  
+  .text-color-lightskyblue {
+    color: lightskyblue;
+  }
+  
+  .text-color-red {
+    color: red;
+  }
+  
+  .text-blue-ul {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  /* -bg-color- */
+  
+  .bg-brown {
+    background-color: #7b3f00;
+  }
+  
+  .bg-brown-100 {
+    background-color: #9d7153;
+  }
+  
+  /* --text-color-- */
+  
+  
+  .text-blue {
+    color: lightskyblue;
+  }
+  
+  
+  .text-color-white {
+    color: white;
+  }
+  
+  .text-color-black {
+    color: black;
+  }
+  
+  .text-black-ul {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .text-lightskyblue-ul {
+    color: lightskyblue;
+    text-decoration: none;
+  }
+
+  .text-blue-ul {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .text-grey-ul {
+    color: darkgrey;
+    text-decoration: none;
+  }
+  
+  .font-blod-400 {
+    font-weight: 400;
+  }
+  
+  .font-blod-800 {
+    font-weight: 800;
+  }
+  
+  /*--bg--*/
+  
+  .bg-orange {
+    background-color: orange;
+  }
+  
+  .bg-black {
+    background-color: black;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .no-underline {
+    text-decoration-line: none;
+  }
+  
+  .list-none {
+    list-style: none;
+  
+  }
+
+  /*-nav-*/
+
+  #nav {
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+  }
+  
+
+  /*-justify-*/
+  
+  .justify-items {
+    justify-items: center;
+  }
+  
+  .justify-content {
+    justify-content: center;
+  }
+  
+  .justify-content-flex {
+    justify-content: flex-start;
+    align-content: flex-start;
+  }
+  
+  .justify-content-espace {
+    display: flex;
+    justify-content: space-around;
+  }
+     

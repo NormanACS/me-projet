@@ -1,0 +1,154 @@
+@media screen and ( max-width: 425px) {
+    .sm-bg-brown {background-color: #7b3f00;
+ }
+   
+     .sm-text-blue {color: lightskyblue;
+        text-decoration: none;
+ }
+
+ .sm-bg-nav {
+    background-color: #9d7153;
+ }
+     
+     .sm-flex  {
+        display: flex;
+        flex: auto;
+       }
+      
+       .sm-flex-wrap {
+        flex-wrap: wrap
+      }
+      
+       .sm-flex-align {
+         align-content: center;
+       }
+ 
+       .sm-flex-direction-cl {
+         flex-direction: column;
+       }
+ 
+       .sm-grid {
+         display: grid;
+       }
+ 
+       .sm-grid-col-3 {
+         grid-template-columns: repeat(3 minmax(0,1fr));
+       }
+    
+       .sm-justify-content {
+         justify-content: center;
+       }
+
+       .sm-mg {
+        margin: 0em;
+       }
+
+       .sm-fs-5 {
+        font-size: 1.25rem!important;
+    }
+
+       
+ }
+ 
+ @media screen and ( min-width: 768px) {
+    .md-bg-brown {background-color: #7b3f00;
+    }
+      
+        .md-text-blue {color: lightskyblue;
+            text-decoration: none;
+    }
+   
+    .md-bg-nav {
+       background-color: #9d7153;
+    }
+ 
+     .md-flex {
+      display: flex;
+      flex: auto;
+       }
+
+       .md-flex-wrap {
+        flex-wrap: wrap
+      }
+ 
+     .md-flex-align {
+         align-content: center;
+       }
+ 
+       .md-flex-direction-cl {
+         flex-direction: column;
+       }
+       .md-grid {
+         display: grid;
+       }
+ 
+       .md-grid-col-3 {
+         grid-template-columns: repeat(3 minmax(0,1fr));
+       }
+       .md-justify-content {
+         justify-content: center;
+       }
+       
+       .md-mg {
+        margin: 0em;
+       }
+ }
+ 
+ @media screen and (min-width: 1024px) {
+    .lg-bg-brown {background-color: #7b3f00;
+    }
+      
+        .lg-text-blue {color: lightskyblue;
+            text-decoration: none;
+    }
+   
+    .lg-bg-nav {
+       background-color: #9d7153;
+    }
+ 
+     .lg-flex {
+      display: flex;
+      flex: auto;
+       }
+
+    .lg-flex-wrap {
+      flex-wrap: wrap
+    }
+ 
+     .lg-flex-align {
+         align-content: center;
+       }
+ 
+       .lg-flex-direction-cl {
+         flex-direction: column;
+       }
+       .lg-grid {
+         display: grid;
+       }
+ 
+       .lg-grid-col-3 {
+         grid-template-columns: repeat(3 minmax(0,1fr));
+       }
+     
+       .lg-justify-content {
+         justify-content: center;
+       }
+
+       .lg-mg {
+        margin: 0em;
+       }
+       
+ }
+ 
+ @media screen and (min-width: 2560px) {
+    .xl-bg-brown {background-color: #7b3f00;
+    }
+      
+        .xl-text-blue {color: lightskyblue;
+            text-decoration: none;
+    }
+   
+    .xl-bg-nav {
+       background-color: #9d7153;
+    }
+ }
